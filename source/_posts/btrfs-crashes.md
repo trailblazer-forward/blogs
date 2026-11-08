@@ -1,7 +1,7 @@
 ---
 title: btrfs-crashes
 date: 2026-10-18 21:48:28
-tags: technology Life
+tags: technology life linux
 ---
 
 # Btrfs Crashes

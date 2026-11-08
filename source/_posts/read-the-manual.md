@@ -1,6 +1,6 @@
 ---
 title: 阅读手册
-tags: technology
+tags: technology linux
 date: 2026-11-07 16:09:03
 ---
 
